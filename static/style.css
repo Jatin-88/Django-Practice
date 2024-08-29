@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: 100px;
+}
+a{
+    background-color: greenyellow;
+    border-radius: 20%;
+    text-decoration: none;
+    font-size: 40px;
+    color: red;
+    margin: 10px 10px;
+}
